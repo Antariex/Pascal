@@ -1,5 +1,5 @@
-program Saludar;
 
-begin
-	write('Hello World!');
-end.
+Program helloworld;
+Begin
+  write('Hello World!');
+End.
